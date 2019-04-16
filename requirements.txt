@@ -1,0 +1,6 @@
+ndg-httpsclient
+pyasn1
+pyopenssl
+bs4
+requests
+lxml
